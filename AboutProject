@@ -1,0 +1,49 @@
+# 💳 SQL Banking System Project
+
+This project is a simulation of a basic **Banking System** built using SQL. It includes database design, schema creation, data insertion, and SQL queries that replicate real-world banking operations such as customer management, account handling, and transaction processing.
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## 🧱 Features
+
+- ✅ Relational schema for:
+  - Customers
+  - Accounts
+  - Transactions
+  - Branches (optional)
+- ✅ SQL operations for:
+  - Creating tables with constraints
+  - Inserting sample data
+  - Retrieving account balances
+  - Viewing transaction history
+  - Summarizing customer information
+- ✅ Use of SQL concepts like:
+  - `JOIN`, `GROUP BY`, `ORDER BY`
+  - `WHERE`, `HAVING`, `CASE`
+  - Subqueries and nested queries
+
+---
+
+## 🛠️ Technologies Used
+
+- SQL (standard syntax)
+- MySQL / PostgreSQL / SQLite (compatible with minor changes)
+- Any SQL client like:
+  - **MySQL Workbench**
+  - **DBeaver**
+  - **pgAdmin**
+  - **SQLite Studio**
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/banking-system-sql.git
+   cd banking-system-sql
